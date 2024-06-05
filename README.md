@@ -29,4 +29,4 @@ The FIFO Functionality ensures efficient data storage and retrieval in the route
 
 The Router FSM manages the router's state transitions and ensures proper data routing and processing. The FSM includes states such as `STATE-DECODE_ADDRESS`, `STATE-LOAD_FIRST_DATA`, `STATE-LOAD_DATA`, `STATE-LOAD_PARITY`, and others, each serving a specific function in the packet routing process.
 
-![Router Finite State Machine](router fsm image.jpg)
+![Router Finite State Machine](router fsm image.png)
